@@ -22,7 +22,7 @@ export default function HomeScreen() {
       </ThemedView>
 
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="title"> welcome to ukaegbu-adaezes app </ThemedText>
+        <ThemedText type="title"> welcome to etinosas app </ThemedText>
         <ThemedText>
           Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
         </ThemedText>
